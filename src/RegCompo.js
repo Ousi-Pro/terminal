@@ -6,13 +6,13 @@ export class RegCompo extends Component {
       super(props)
     
       this.state = {
-         name: "Oussama"
+         name: "Oussama Pro hh"
       }
     }
     componentDidMount(){
         setInterval(() => {
             this.setState({
-                name: "HHHH"
+                name: "HOHOHO"
             })
         }, 2000)
     }

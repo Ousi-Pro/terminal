@@ -12,7 +12,7 @@ export class RegCompo extends Component {
     componentDidMount(){
         setInterval(() => {
             this.setState({
-                name: "HOHOHO"
+                name: "HOHOHOaaaa"
             })
         }, 2000)
     }

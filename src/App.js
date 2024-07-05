@@ -1,11 +1,11 @@
 import {React, Component} from 'react'
 import './App.css';
-import Pure from './Pure';
+import RegCompo from './RegCompo.js';
 export class App extends Component {
   render() {
     return (
       <div>
-        <Pure></Pure>
+        <RegCompo></RegCompo>
       </div>
       
     )

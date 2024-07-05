@@ -1,5 +1,5 @@
 import {React, Component} from 'react'
-import './App.css';
+import './src/App.css';
 import RegCompo from './RegCompo.js';
 export class App extends Component {
   render() {

@@ -1,6 +1,7 @@
-import React from 'react'
+import React, {memo} from 'react'
 
-let  Reg = React.memo((props) => {
+let  Reg = memo((props) => {
+  console.log(React.Fragment)
   return (
     <div>
       From Func {props.name}

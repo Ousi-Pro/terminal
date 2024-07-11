@@ -6,7 +6,7 @@ class Pure extends PureComponent {
     console.log("From Pure")
     return (
       <div>
-        Pure component {this.props.name}
+        L3eeezzzz {this.props.name}
       </div>
     )
   }

@@ -4,7 +4,7 @@ let  Reg = memo((props) => {
   console.log(React.Fragment)
   return (
     <div>
-      From Func cv hh {props.name}
+      Boom great{props.name}
     </div>
   )
 })

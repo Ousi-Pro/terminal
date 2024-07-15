@@ -1,7 +1,7 @@
 .App {
   text-align: center;
 }
-h1 {
-  color: blue;
-  background-color: cyan;
+h1{
+  color: rgba(255, 81, 0, 0.947);
+  background-color: rgba(255, 187, 0, 0.689);
 }
